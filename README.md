@@ -45,7 +45,7 @@ With all else being equal, it would make sense to prioritize freeing Zach's atte
 
 However, if we felt the capacity of Andy's attention was 2.5x that of Zach's (for example, if they are both programmers, and Andy can achieve desired outcomes 2.5x as quickly as Zach), then it would cost less to free Zach's attention.
 
-(Possible tool for broadly estimating programmer capacity: https://merico.build.)
+(Possible tool for estimating programmer capacity: https://merico.build.)
 
 Note: we are not required to think in terms of full-time equivalent (40 hrs/week) basic incomes.
 
