@@ -29,7 +29,7 @@ If by automating the data entry, Amy can spend 8 hours on tasks that won't leave
 
 #### Approach 2: Re-allocate tasks
 
-Connect Amy with Brenda, a remote peer / assistant / apprentice.
+Connect Amy with Brenda, a remote peer (or assistant / apprentice)
 
 Brenda can gain desired work/experience from taking on some of Amy's routines/processes, freeing Amy's attention that was consumed by those tasks.
 
