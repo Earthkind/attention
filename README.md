@@ -30,11 +30,11 @@ By lowering the attentional costs of Amy's tools and technology, Amy has more ti
 
 *Possible solutions*
 
-* A [communication application](https://github.com/earthkind/graphme) that can bridge different networks, enabling Amy to send messages to contacts in any social network, without having to enter that social network website.  (Open-source tool for this: [Matrix homeserver playbook with connected chat services](https://github.com/spantaleev/matrix-docker-ansible-deploy))
+* **A [communication application](https://github.com/earthkind/graphme) that can bridge different networks**, enabling Amy to send messages to contacts in any social network, without having to enter that social network's website/app.  (Open-source tool: [Matrix homeserver with connected chat services](https://github.com/spantaleev/matrix-docker-ansible-deploy))
 
-* Streamlined and intentional processes for using technology. [Reflect](https://getreflect.app/) enables this by introducing friction to navigating websites -- it blocks Amy from entering a website unless Amy enters an intention, which will presumably be remembered throughout the session.  However, instead of friction, this tool should be empowering.  If Amy visits Reddit, Amy should be able to note a specific intention, and have the appropriate experience render based on that intention.  This saves Amy from getting distracted, and improves the user experience.  (*Would this hurt digital serendipity?  Something to keep in mind*)
+* **Streamlined and intentional processes for using technology.** [Reflect](https://getreflect.app/) enables this by introducing friction to navigating websites -- it blocks Amy from entering a website unless Amy enters an intention, which will presumably be remembered throughout the session.  However, instead of friction, this tool should be empowering.  If Amy visits Reddit, Amy should be able to note a specific intention, and have the appropriate experience render based on that intention.  This saves Amy from getting distracted, and improves the user experience.  (*Would this hurt digital serendipity?  Something to keep in mind*)
 
-* Web experiences (UI/UX) free from addictive "dopamine dispensers."  Navigate to the 15:20 mark of [this conversation with Drew Devault](https://www.coss.community/coss/ocs-2020-breakout-drew-devault-4407) for a relevant discussion, and see his tool [SourceHut](https://sr.ht/) as an example of a GitHub alternative free of dopamine dispensers.  (Also, credit to Drew for the terminology.)
+* **Web experiences (UI/UX) free from addictive "dopamine dispensers."**  Navigate to the 15:20 mark of [this conversation with Drew Devault](https://www.coss.community/coss/ocs-2020-breakout-drew-devault-4407) for a relevant discussion, and see his tool [SourceHut](https://sr.ht/) as an example of a GitHub alternative free of dopamine dispensers.  (Also, credit to Drew for the terminology.)
 
 ## 35% - Attention allocated to work
 
