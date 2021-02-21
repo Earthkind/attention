@@ -12,7 +12,31 @@ To go further, meet Amy.  Like much of the human population, Amy is now a remote
 
 What are some ways Amy can reallocate her attention?
 
-### 35% - Attention allocated to work
+## 60% - Attention allocated to media
+
+#### Approach 1: Lower the attentional costs of using technology
+
+Amy has a specific desire to do something online.  That could be:
+
+* Writing a message to someone
+* Recording a note
+* Looking something up
+
+However, the attentional costs start as soon as Amy looks at a phone screen (with all of the colorful app icons, and the connections they generate in Amy's mind) or navigates to a website (with all of the content, colors, buttons that immediately come to view.)
+
+(*In the case of messaging, the attentional costs actually start as soon as the intention to message crosses Amy's mind -- because Amy first has to remember the correct app/website to even message that person, where the contact "is stored."*)
+
+By lowering the attentional costs of Amy's tools and technology, Amy has more time and attention to apply elsewhere.
+
+*Possible solutions*
+
+* A [communication application](https://github.com/earthkind/graphme) that can bridge different networks, enabling Amy to send messages to contacts in any social network, without having to enter that social network website.  (Open-source tool for this: [Matrix homeserver playbook with connected chat services](https://github.com/spantaleev/matrix-docker-ansible-deploy))
+
+* Streamlined and intentional processes for using technology. [Reflect](https://getreflect.app/) enables this by introducing friction to navigating websites -- it blocks Amy from entering a website unless Amy enters an intention, which will presumably be remembered throughout the session.  However, instead of friction, this tool should be empowering.  If Amy visits Reddit, Amy should be able to note a specific intention, and have the appropriate experience render based on that intention.  This saves Amy from getting distracted, and improves the user experience.  (*Would this hurt digital serendipity?  Something to keep in mind*)
+
+* Web experiences (UI/UX) free from addictive "dopamine dispensers."  Navigate to the 15:20 mark of [this conversation with Drew Devault](https://www.coss.community/coss/ocs-2020-breakout-drew-devault-4407) for a relevant discussion, and see his tool [SourceHut](https://sr.ht/) as an example of a GitHub alternative free of dopamine dispensers.  (Also, credit to Drew for the terminology.)
+
+## 35% - Attention allocated to work
 
 #### Approach 1: Task Automation
 
@@ -82,7 +106,3 @@ With this in mind, a decision for how to allocate basic income could include the
 Note that this framework is strongly opinionated, and could have implications on fairness and equality of opportunity.  In some cases, it may skew towards people who have had systemic advantages and priveleges.  In other cases, it can skew towards people who identify lower income needs.
 
 The metric it's after is **freeing *as much* of *the most capable* attention *as soon* as possible.** That doesn't mean this is the best approach for the intended outcome (solving problems with great societal value by allocating our attention to them), and discussion/debate is encouraged.
-
-### 60% - Attention allocated to media
-
-(Work in progress)
